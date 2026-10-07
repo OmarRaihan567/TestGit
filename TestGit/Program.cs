@@ -2,10 +2,6 @@ namespace TestGit
 {
     public class Program
     {
-
-        // Hello From Omar Raihan........
-        // Hello From Omar Raihan 2........
-
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
